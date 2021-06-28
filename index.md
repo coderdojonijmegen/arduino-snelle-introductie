@@ -1,5 +1,5 @@
 ---
-title: "Arduino - Snelle Introductie"
+title: "Arduino - een snelle introductie"
 date: 2021-06-27T13:20:28+02:00
 draft: false
 toc: true
