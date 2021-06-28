@@ -924,6 +924,8 @@ gepubliceerd in mei 2021 onder de [Creative Commons Attribution 4.0 Internationa
 Dat betekent dat je deze handleiding vrij mag verspreiden en aanpassen,
 mits je de bron vermeldt en verwijst naar de licentie.
 
+De broncode voor deze instructie vind je hier https://github.com/coderdojonijmegen/arduino-snelle-introductie.
+
 ### Verantwoording foto’s
 * Arduino met relais en lamp: Adilson Thomsen/FilipeFlop/Wikimedia  
 * Breadboard: Victoria.nunez2/Wikimedia  
