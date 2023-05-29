@@ -4,7 +4,7 @@ date: 2021-06-27T13:20:28+02:00
 draft: false
 toc: true
 headercolor: "teal-background"
-taal: C
+onderwerp: C
 ---
 
 Alles wat je moet weten om gave dingen te maken
