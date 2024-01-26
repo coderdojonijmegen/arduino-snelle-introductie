@@ -759,8 +759,8 @@ volgende oplossingen, in de volgorde waarop ze genoemd worden.
    helpt dan is er ergens kortsluiting óf is er iets verbonden met de verkeerde pin.)
 6. Herstart de computer (en zie dan weer stap 1).
 7. Als je computer de Arduino niet kan vinden onder ‘Poort’, dan kan het nodig zijn
-   om een driver installeren. Voer de instructies uit op https://www.arduino.cc/en/
-   Guide/DriverInstallation (en doe dan weer stap 1).
+   om een driver installeren. Voer de instructies uit op https://docs.arduino.cc/tutorials/generic/DriverInstallation/ 
+   (en doe dan weer stap 1).
 8. Probeer een andere Arduino
 
 #### Problemen met de code
