@@ -28,7 +28,7 @@ Verder zie je 14 digitale pins en 6 analoge pins, die we allemaal kunnen gebruik
 
 ## De software installeren
 We hebben de Arduino-software nodig om het Arduino-bordje te kunnen
-programmeren. Om de software te downloaden ga je naar [arduino.cc/download](https://arduino.cc/download).
+programmeren. Om de software te downloaden ga je naar [www.arduino.cc/en/software](https://www.arduino.cc/en/software).
 
 ![Arduino IDE download](imgs/ArduinoIDEdownload.png)
 
@@ -901,7 +901,7 @@ void loop() {
 | Camera’s | |
 | Bewegingssensor | |
 | Infrarood-ontvanger (je project besturen met afstandsbediening!) | |
-| Hartslag<br> *Sommige hartslagsensors werken amper. Deze is wat duurder, maar geeft wel redelijk goede meetresultaten: https://www.kiwi-electronics.nl/pim-438* | |
+| Hartslag<br> *Sommige hartslagsensors werken amper. Deze is wat duurder, maar geeft wel redelijk goede meetresultaten: https://www.kiwi-electronics.com/nl/max30101-breakout-heart-rate-oximeter-smoke-sensor-4073* | |
 | Rook | |
 | Gas | |
 | Straling | |
